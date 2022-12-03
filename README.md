@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://dev.to/dhirajmishra98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dhirajmishra98" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dhirajmishra98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhirajmishra98" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/gobind.mishra2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/gobind.mishra2/" height="30" width="40" /></a>
+<a href="https://fb.com/gobind.mishra2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gobind.mishra2" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
