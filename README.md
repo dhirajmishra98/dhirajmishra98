@@ -1,6 +1,19 @@
 <h1 align="center">Hi 👋, I'm Dhiraj Kumar Mishra</h1>
 <h3 align="center">Pre-final Year CSE Student, Self-taught App developer</h3>
 
+## Checkout Some Projects
+### Working On
+- Shop App (Easy shop app to add and buy products) : https://github.com/dhirajmishra98/Shop-App
+
+
+### Completed Projects
+- FlashChat-Massenger (Allows authentication using firebase and simple group chat) : https://github.com/dhirajmishra98/FlashChat-Messanger
+- Math-Quiz Game (Game for kids to enhance their mathematics in Basic Operations(+,-,*,/) with score and timer) : https://github.com/dhirajmishra98/Math-Quiz-Game.git
+- Covid19-Tracker (Fetches live status of covid and display with search functionality of countries) : https://github.com/dhirajmishra98/covid19-tracker
+- Weather-App (Fetches live weather Report with search functionality of city,country) : https://github.com/dhirajmishra98/Clima-WeatherApp
+- BMI-Calculator : https://github.com/dhirajmishra98/BMI-Calculator
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhirajmishra98&label=Profile%20views&color=0e75b6&style=flat" alt="dhirajmishra98" /> </p>
 
 - 🔭 I’m currently working on [Math-Quiz-Game](https://github.com/dhirajmishra98/Math-Quiz-Game.git)
