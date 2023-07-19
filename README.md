@@ -3,15 +3,30 @@
 
 # Checkout Some Projects
 ### Working On
-- Shop App (Easy shop app to add and buy products) : https://github.com/dhirajmishra98/Shop-App
+## [Jugaad-Junction](https://github.com/dhirajmishra98/Jugaad-Junction)
+A fully functional e-commerce app(Amazon clone) with an admin panel<br>
+– Tools & technologies used: Flutter, Javascript, Nodejs, MongoDB, Express, Mongoose<br>
+– features: auth with email/password, cart, searching products, fetching products based on category, rating, fetching
+deal of the day, checking out using GPay/Apple Pay, viewing the orders<br>
+
+
 
 
 ### Completed Projects
-- FlashChat-Massenger (Allows authentication using firebase and simple group chat) : https://github.com/dhirajmishra98/FlashChat-Messanger
-- Math-Quiz Game (Game for kids to enhance their mathematics in Basic Operations(+,-,*,/) with score and timer) : https://github.com/dhirajmishra98/Math-Quiz-Game.git
-- Covid19-Tracker (Fetches live status of covid and display with search functionality of countries) : https://github.com/dhirajmishra98/covid19-tracker
-- Weather-App (Fetches live weather Report with search functionality of city,country) : https://github.com/dhirajmishra98/Clima-WeatherApp
-- BMI-Calculator : https://github.com/dhirajmishra98/BMI-Calculator
+[TypeRacer](https://github.com/dhirajmishra98/TypeRacer) <br>
+Create a room and let your friends join to start typing race adventure and know your speed in WPM<br>
+– Tools & technologies used: Flutter, Nodejs, MongoDB, Socket.io, Express<br>
+– features: Create/Join Room with validation, Displaying Typed Words, Current Word Words to be Typed, Real
+Time Progress of Users in Same Room, Leaderboard displaying User’s WPM
+<br>
+<br>
+[Flash-Chat](https://github.com/dhirajmishra98/FlashChat-Messanger) <br>
+Allows authentication using Firebase and provides functionality for simple group chat<br>
+– Tools & technologies used: Firebase, Flutter<br>
+– features: Able to authenticate a user and register to enter a group chat
+<br>
+<br>
+...And many more, Checkout to REPOS 😉😉
 
 ## 💻Tech Stacks
 - Flutter
@@ -19,6 +34,7 @@
 - Java
 - NodeJs
 - MongoDB
+- Firebase
 - Data Structures and Algorithms
 - Postman
 - Git/Github
@@ -32,7 +48,12 @@
 
 - 📫 How to reach me **gobindmishra23@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1AYvsV2hwwa2AiolUmmmU6I_yl9khnC-X/view?usp=share_link)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1tgC4-KYfUsIGMUJ6KaJFrD_9qOBjPcXm/view?usp=sharing)
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org/en/docs" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a></p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -45,9 +66,6 @@
 <a href="https://www.leetcode.com/gobindmishra23" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gobindmishra23" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/gobindmishra23" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gobindmishra23" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
 
 
