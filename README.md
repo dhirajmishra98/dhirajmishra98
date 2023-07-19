@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhiraj Kumar Mishra</h1>
-<h3 align="center">Pre-final Year CSE Student, Self-taught App developer</h3>
+<h3 align="center">Final Year CSE Student, Self-taught App developer</h3>
 
 # Checkout Some Projects
 ### Working On
@@ -17,6 +17,8 @@
 - Flutter
 - Dart
 - Java
+- NodeJs
+- MongoDB
 - Data Structures and Algorithms
 - Postman
 - Git/Github
