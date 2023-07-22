@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhiraj Kumar Mishra</h1>
 <h3 align="center">Final Year CSE Student, Self-taught App developer</h3>
+<h2 align="center">Life is all about Widgets💙 & Objects💛</h2>
 
 # Checkout Some Projects
 ### Working On
