@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhiraj Kumar Mishra</h1>
-<h3 align="center">Life is all about Widgets💙 & Objects💛</h3>
+<h3 align="center">Widgets💙 & Objects💛</h3>
 
 # Checkout Some Projects
 ### Working On
