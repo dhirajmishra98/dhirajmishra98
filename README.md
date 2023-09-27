@@ -10,23 +10,12 @@ A fully functional e-commerce app(Amazon clone) with an admin panel<br>
 deal of the day, checking out using GPay/Apple Pay, viewing the orders<br>
 
 
-
-
 ### Completed Projects
 [TypeRacer](https://github.com/dhirajmishra98/TypeRacer) <br>
 Create a room and let your friends join to start typing race adventure and know your speed in WPM<br>
-– Tools & technologies used: Flutter, Nodejs, MongoDB, Socket.io, Express<br>
-– features: Create/Join Room with validation, Displaying Typed Words, Current Word Words to be Typed, Real
-Time Progress of Users in Same Room, Leaderboard displaying User’s WPM
-<br>
 <br>
 [Chatify](https://github.com/dhirajmishra98/Chatify) <br>
-Chatify is a full-stack one-on-one/group chat application developed using Firebase and Flutter. It offers a wide range of features to enhance your chat experience, including phone number authentication, multimedia sharing, status updates, and much more.<br>
-– Developed using Firebase and Flutter.<br>
-– Features include Phone Number Authentication, One to one and Group chatting with contacts only - includes text,
-image, gif, video, audio (with recording), emoji sharing and image and video caching, status visible to contacts
-only, video calling (one-one and group), online/offline status, Message Seen Feature, Automatic Scrolling on New
-Message, Replying to Messages.
+Chatify is a full-stack one-on-one/group chat application developed using Firebase and Flutter. It offers a wide range of features to enhance your chat experience, including phone number authentication, multimedia sharing, status updates, and much more.
 <br>
 <br>
 ...And many more, Checkout to REPOS 😉😉
