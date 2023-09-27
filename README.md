@@ -20,10 +20,13 @@ Create a room and let your friends join to start typing race adventure and know 
 Time Progress of Users in Same Room, Leaderboard displaying User’s WPM
 <br>
 <br>
-[Flash-Chat](https://github.com/dhirajmishra98/FlashChat-Messanger) <br>
-Allows authentication using Firebase and provides functionality for simple group chat<br>
-– Tools & technologies used: Firebase, Flutter<br>
-– features: Able to authenticate a user and register to enter a group chat
+[Chatify](https://github.com/dhirajmishra98/Chatify) <br>
+Chatify is a full-stack one-on-one/group chat application developed using Firebase and Flutter. It offers a wide range of features to enhance your chat experience, including phone number authentication, multimedia sharing, status updates, and much more.<br>
+– Developed using Firebase and Flutter.<br>
+– Features include Phone Number Authentication, One to one and Group chatting with contacts only - includes text,
+image, gif, video, audio (with recording), emoji sharing and image and video caching, status visible to contacts
+only, video calling (one-one and group), online/offline status, Message Seen Feature, Automatic Scrolling on New
+Message, Replying to Messages.
 <br>
 <br>
 ...And many more, Checkout to REPOS 😉😉
