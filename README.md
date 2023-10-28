@@ -61,10 +61,9 @@ Chatify is a full-stack one-on-one/group chat application developed using Fireba
 
 
 
-                                                         HACTOBERFEST 2022
+                                                         HACTOBERFEST 2022 & 2023
 [![@dhiraj_mishra98's Holopin board](https://holopin.me/dhiraj_mishra98)](https://holopin.io/@dhiraj_mishra98)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhirajmishra98&" alt="dhirajmishra98" /></p>
 
 <!---
 dhirajmishra98/dhirajmishra98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
