@@ -3,14 +3,15 @@
 
 # Checkout Some Projects
 ### Working On
-## [Jugaad-Junction](https://github.com/dhirajmishra98/Jugaad-Junction)
+Web Development : HTML, CSS, Javascript
+
+### Completed Projects
+[Jugaad-Junction](https://github.com/dhirajmishra98/Jugaad-Junction)
 A fully functional e-commerce app with an admin panel<br>
 – Tools & technologies used: Flutter, Javascript, Nodejs, MongoDB, Express, Mongoose<br>
 – features: auth with email/password, cart, searching products, fetching products based on category, rating, fetching
 deal of the day, checking out using GPay/Apple Pay, viewing the orders<br>
 
-
-### Completed Projects
 [TypeRacer](https://github.com/dhirajmishra98/TypeRacer) <br>
 Create a room and let your friends join to start typing race adventure and know your speed in WPM<br>
 <br>
